@@ -1,6 +1,6 @@
-# 🔐 Especificação de Requisitos – Cadastro e Autenticação (Projeto INOVA)
+# 🔐 Especificação de Requisitos – Cadastro e Autenticação (Projeto INCLUA)
 
-Este documento detalha os requisitos funcionais, não funcionais, histórias de usuário e critérios de aceitação referentes ao **cadastro, autenticação, controle de acesso e segurança** do sistema **INOVA**.
+Este documento detalha os requisitos funcionais, não funcionais, histórias de usuário e critérios de aceitação referentes ao **cadastro, autenticação, controle de acesso e segurança** do sistema **INCLUA**.
 
 ---
 
@@ -29,7 +29,7 @@ Este documento detalha os requisitos funcionais, não funcionais, histórias de 
 ## 3. Histórias de Usuário e Critérios de Aceitação (BDD)
 
 ### US01 – Criar conta no sistema
-> **Como** usuário, **eu quero** criar uma conta no INOVA, **para que** eu possa utilizar as funcionalidades que exigem identificação. *(5 Story Points • Must Have)*
+> **Como** usuário, **eu quero** criar uma conta no INCLUA, **para que** eu possa utilizar as funcionalidades que exigem identificação. *(5 Story Points • Must Have)*
 
 * **Cenário:** Cadastro de usuário
   * **DADO QUE** o usuário está na tela de cadastro

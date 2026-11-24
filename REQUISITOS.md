@@ -1,14 +1,14 @@
-# 📋 Especificação de Requisitos – Projeto INOVA
+# 📋 Especificação de Requisitos – Projeto INCLUA
 
 ## 1. Matriz Estruturada de Requisitos
 
-A matriz abaixo apresenta os requisitos funcionais e não funcionais do **INOVA**, relacionando código, tipo, descrição da necessidade técnica, prioridade segundo o método **MoSCoW** e critério principal de aceite[cite: 2].
+A matriz abaixo apresenta os requisitos funcionais e não funcionais do **INCLUA**, relacionando código, tipo, descrição da necessidade técnica, prioridade segundo o método **MoSCoW** e critério principal de aceite[cite: 2].
 
 ### ⚙️ Requisitos Funcionais (RF)
 
 | Código | Descrição da Necessidade Técnica | Prioridade MoSCoW | Critério de Aceite Principal |
 | :--- | :--- | :--- | :--- |
-| **RF01** | Cadastro e autenticação de usuários para acesso às funcionalidades do INOVA. | Must Have (Obrigatório) | Usuário consegue cadastrar-se, autenticar-se e acessar as funções permitidas. |
+| **RF01** | Cadastro e autenticação de usuários para acesso às funcionalidades do INCLUA. | Must Have (Obrigatório) | Usuário consegue cadastrar-se, autenticar-se e acessar as funções permitidas. |
 | **RF02** | Cadastro e gerenciamento das informações das academias. | Must Have (Obrigatório) | Academia cadastrada com dados básicos, localização e recursos de acessibilidade. |
 | **RF03** | Busca e visualização de academias disponíveis no sistema. | Must Have (Obrigatório) | Usuário consegue pesquisar e visualizar academias cadastradas. |
 | **RF04** | Mapa para localizar academias cadastradas. | Must Have (Obrigatório) | Mapa exibe academias com localização válida e permite consultar seus detalhes. |
@@ -37,7 +37,7 @@ A matriz abaixo apresenta os requisitos funcionais e não funcionais do **INOVA*
 
 ## 2. Detalhamento dos Requisitos Não Funcionais
 
-Os requisitos não funcionais definem os padrões de qualidade que o **INOVA** deverá respeitar durante sua implementação e utilização[cite: 2]:
+Os requisitos não funcionais definem os padrões de qualidade que o **INCLUA** deverá respeitar durante sua implementação e utilização[cite: 2]:
 
 * **Desempenho:** As principais operações deverão apresentar tempo de resposta adequado, tendo como referência uma resposta **inferior a 2 segundos** em condições normais de uso[cite: 2].
 * **Segurança:** O sistema deverá utilizar autenticação e autorização, validação das entradas, proteção de sessão e mecanismos de prevenção contra vulnerabilidades comuns, como **XSS** e **CSRF**[cite: 2]. Informações sensíveis deverão ser protegidas[cite: 2].
